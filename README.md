@@ -40,11 +40,15 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/viniciusacoelho/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/viniciusacoelho_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" title="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  <a href="mailto:viniciusaccoelho123@gmail.com">
+    <img src="https://img.shields.io/badge/viniciusaccoelho123@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
 </div>
 
 ###
